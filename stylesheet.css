@@ -4,6 +4,7 @@
     padding-left: 10px;
 }
 
-footer{
-    background-color: lightgray;
+/* need to center elements in the footer */
+.col-sm{
+    text-align: center; 
 }
