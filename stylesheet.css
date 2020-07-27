@@ -8,3 +8,8 @@
 .col-sm{
     text-align: center; 
 }
+
+#cpr{
+    color: gray;
+    font-size: small;
+}
