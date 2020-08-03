@@ -3,3 +3,13 @@
     font-size: 20px;
     padding-left: 10px;
 }
+
+/* need to center elements in the footer */
+.col-sm{
+    text-align: center; 
+}
+
+#cpr{
+    color: gray;
+    font-size: small;
+}
